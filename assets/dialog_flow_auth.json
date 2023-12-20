@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "health-bot-rprf",
+  "private_key_id": "5cbd65425543ad74cf75b2cc3d123aebbfe029c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG372Zy/tZDNjh\nQn0cKiE3Zi84ApZNp6ZDEdNKWdIdPsj1RMwropbSqow2SHyEN6QnD7vYu/wEhwVw\nWNWtj5qb82YIFdK+7DzYSqqr0Gpp3FQUFKva1NR4HnxHwD8kck4PCCzSs1v6xXl0\nfkls/8xHW50z6mz6KV51s69iNvubUznyBfAgo+TM2+Gp+339alkMAPwpPOTehey8\n6W4M++fOOUPgu/akNBXvmFbzWvkZqlKUoWwN5VdpK4p/lM1ExB7h5XD05B75vRfk\nsKlUUpmYOizXnPytw3VnafPgRVLnw0KLZa1P7MDgU2xFlb7zlm+qIWW9Le6HrqPy\nwrox0Ip3AgMBAAECggEAUcS4rj2icLDJk4TE8Amacq6/B2Z46iDeSYFQwKdBruib\ns8y/rclB/ghFciRHng1KnwznDWvtaOcjI1hDMwNybGCdOQHQDtQPCFda6R3eQvxm\nTYNaTbVoTqMqMk4nKBMfaSrRUyiPzwHWuEEca4aZNVXDww7GE+1iez6QA+/bb7cE\n1SnHZTe0tusGpXj2kTquCdz+s2vg8DeCu83XP9zKQ0eoqp0ZFHcmL6kAcL+1e5Pa\naJd7Rc5yOulW8vdQugMk6vFq80XCzIi6rsaYi+QFEk/PV++1NXv5XLOJzmhsbhsO\n/X82jGYD9BFQUVZE6h65LTIFzK6WN3Cy/Vb5aEP6AQKBgQDqNnvgT0XMhG4x9Eze\n8u/P0eZz96eo5i2Fz8xWOkEDErCrManJEjOCnoN6pl8/qbkClg05/vJxI8iIA8l2\n+rGaSHjmJi2VEU6xMD4UL4E4Xg89ty1UpDhZg/9r4R6cOq0WEsv1bik0zu0e0zm/\nQGvXchWahJXhmYDFMwf39F5DgQKBgQDZX7OrKQcNVRrFMe7h09bK7VlTKHT8d8yt\nzmvv4s3zRIMkxoBeFXybiVUBwQVRUZq5p5MTZckxKPJHPsK7iGptNVLfeB5vb9FP\nA+97fOam1/Zcl/rxC/H9ujanXidjwDm2z9T7W6ZSAA8HBeCVzcVr0H+YYwT5eR/h\nniLboe3p9wKBgHhbU0Eru4SjsTT+g9o2IUI8bR6+72t+DXqsFCdjfDEmE5+Fv+hR\n8CJ5brtCb8P5ZdeMYHOjLdcyOkSbHZaEsWvFPkuW5umpoTSww9X/q3nZ7B8c2LCc\nS1DE4ib/4okKJhQnyKPw3kAC7htfFFfRtRlbyPpEk/kAtwmfdcLX0vEBAoGBAK67\noEiA9VtBQwCqz9SWHb4HptsS1V8wycYY/WjajyTyuNyx9/QpH35DmaKMT0L77v03\n+CEKm/y5Zm/gwlZPJQXebFyYSRbY8o6qojJIx3vsc+wgeyaSrJaBvncxV0Z2+a27\nSQA4vuyBgZLqpYql2wF8m2SajCAhvn/1Rx33/7AnAoGAF7LOz+2WoFUNhisWB/Gg\n7PixwosE7OMB8MHkuX8gpMyzOTz+sJ0Bvg9seV7xjiHC7OJhz0oGYFnoBzWqW8Nt\n+fave0NP1AX7WSKJUbCzb91wE+nCBryB3O5FCXSli4G6mqVgQ9vwbFaV+VSDJ9Hk\n8nAuAAEoD9qVvGsthLqHEew=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-final@health-bot-rprf.iam.gserviceaccount.com",
+  "client_id": "114302289476841157635",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-final%40health-bot-rprf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+  
+}
